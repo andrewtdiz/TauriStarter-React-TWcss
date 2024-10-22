@@ -1,8 +1,9 @@
 # Tauri + React + Typescript + Bun + Tailwindcss
 
-install
+start
 ```batch
 npx degit Velover/Tauri2.0-react-ts-vite-tailwindcss
+bun i
 ```
 
 This template should help get you started developing with Tauri, React and Typescript in Vite.
