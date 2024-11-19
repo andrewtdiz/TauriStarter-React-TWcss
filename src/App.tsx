@@ -40,9 +40,9 @@ function App() {
         <input
           onChange={(e) => setName(e.currentTarget.value)}
           placeholder="Enter a name..."
-          className="py-3 px-4 w-64 rounded-md outline-none"
+          className="input-md"
         />
-        <button className="px-6 py-2 rounded-md" type="submit">Greet</button>
+        <button className="button-md" type="submit">Greet</button>
       </form>
       <p>{greetMsg}</p>
     </main>
