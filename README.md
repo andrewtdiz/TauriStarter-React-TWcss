@@ -2,7 +2,7 @@
 
 start
 ```batch
-npx degit Velover/Tauri2.0-react-ts-vite-tailwindcss
+bunx degit Velover/Tauri2.0-react-ts-vite-tailwindcss
 bun i
 ```
 
