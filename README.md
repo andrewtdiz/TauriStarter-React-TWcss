@@ -2,11 +2,11 @@
 
 start
 ```batch
-npx degit Velover/Tauri2.0-react-ts-vite-tailwindcss
+bunx degit Velover/Tauri2.0-react-ts-vite-tailwindcss
 bun i
 ```
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+This template should help get you started developing with Tauri, React, Typescript and TailwindCss in Vite.
 
 ## Recommended IDE Setup
 
